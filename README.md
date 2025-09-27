@@ -1,12 +1,7 @@
 ## Hi there 👋
 <!-- Lennie Yang -->
 <h1 align="center">Hi 👋，I'm Lennie</h1>
-<h3 align="center">一名热爱技术的 斯丢登特</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6A9955&center=true&vCenter=true&width=600&lines=欢迎来到我的GitHub主页!;热爱开源+持续学习;代码改变世界" alt="Typing SVG" />
-</p>
-
+<h3 align="center">一名热爱技术的 斯丢登特 A Student</h3>
 ---
 
 ### 🛠️ 技术栈
@@ -46,5 +41,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leninist1&color=blueviolet&style=flat-square" alt="访问计数" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninist1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninist1)
