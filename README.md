@@ -5,10 +5,16 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninist1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninist1)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=leninist1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninist1&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Connect with Me
